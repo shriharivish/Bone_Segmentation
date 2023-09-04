@@ -1,6 +1,6 @@
 # Bone_Segmentation
 
-_Completed in fullfilment of the Digital Image Processing Course at BITS Pilani; Advisor: Dr. K K Gupta_
+**_Completed in fullfilment of the Digital Image Processing Course at BITS Pilani; Advisor: Dr. K K Gupta_**
 
 The main objective of this project is to segment, i.e. separate the bone from the tissues and other visible softer substances in the MRI. Designed to be agnostic to the anatomy of the part being scanned, be it the MRI of the knee, brain, hip, etc. It enables the doctors and hospitals by helping them look at bone or tissue selectively depending on the patient and making interpreting MRI’s easier. 
 
@@ -9,8 +9,10 @@ The main objective of this project is to segment, i.e. separate the bone from th
 3. "Snakes.m" - Active contouring based thresholding implemented (pre-processing steps implemented).
 4. "Otsu.m" - Otsu's thresholding implementation.
 
-Please use fudge factors based on the suggestions in the corresponding files.
+The preprocessing steps involve histogram equalisation followed by median filtering for nosie removal.Please use fudge factors based on the suggestions in the corresponding files.
 
-"Soebl_Function.m" uses the inbuilt MATLAB Sobel Thresholding capability. The "Sobel_Implementation.m" file has the basic Sobel thresholding implementation.
+"Sobel_Function.m" uses the inbuilt MATLAB Sobel Thresholding capability. The "Sobel_Implementation.m" file has the basic Sobel thresholding implementation.
 
 Feel free to use any off the shelf standard MRI image for your testing.
+
+_I can be contacted for the official project report or any further clarifications._
