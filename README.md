@@ -1,7 +1,6 @@
 # Bone_Segmentation
-Bone Segmentation from MRI
 
-Completed in fullfilment of the Digital Image Processing Course at BITS Pilani
+_Completed in fullfilment of the Digital Image Processing Course at BITS Pilani
 Advisor: Dr. K K Gupta_
 
 The main objective of this project is to segment, i.e. separate the bone from the tissues and other visible softer substances in the MRI. Designed to be agnostic to the anatomy of the part being scanned, be it the MRI of the knee, brain, hip, etc. It enables the doctors and hospitals by helping them look at bone or tissue selectively depending on the patient and making interpreting MRI’s easier. 
