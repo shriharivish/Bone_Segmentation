@@ -9,7 +9,7 @@ The main objective of this project is to segment, i.e. separate the bone from th
 3. "Snakes.m" - Active contouring based thresholding implemented (pre-processing steps implemented).
 4. "Otsu.m" - Otsu's thresholding implementation.
 
-The preprocessing steps involve histogram equalization followed by median filtering for noise removal.Please use fudge factors based on the suggestions in the corresponding files.
+The preprocessing steps involve histogram equalization followed by median filtering for noise removal. Please use fudge factors based on the suggestions in the corresponding files.
 
 "Sobel_Function.m" uses the inbuilt MATLAB Sobel Thresholding capability. The "Sobel_Implementation.m" file has the basic Sobel thresholding implementation.
 
